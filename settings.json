@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "gigandtej.aternos.me",
